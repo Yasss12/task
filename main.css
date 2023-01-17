@@ -1,0 +1,12 @@
+
+body {
+    background: url(./back.jpg) no-repeat ;
+    background-size: cover;
+
+
+}
+h1 {
+    border: 5px solid rgba(181, 89, 126, 0.838);
+
+
+}
